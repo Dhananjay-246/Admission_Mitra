@@ -1,0 +1,6 @@
+{
+  "name": "Admission Mitra - Maharashtra Engineering Admissions",
+  "description": "Smart multilingual guide for Maharashtra engineering aspirants (MHT-CET, CAP rounds, documents, colleges and MahaDBT scholarships).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
